@@ -10,15 +10,9 @@ Language: C++
 
 Use: To demonstrate how computer graphics work.
 
-Both files are zipped seperatly.
+You will need to unzip the file
 
 # Installation 
-
-Build:
-
-1. Unzip the file
-2. Find "Physics.exe" and run it
-3. Done
 
 Source Code
 
